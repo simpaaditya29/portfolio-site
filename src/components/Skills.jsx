@@ -20,6 +20,12 @@ const skills = [
       'Designing autonomous agents that reason, plan, and act. Onyx’s self-improving training loop is built around agentic behavior.',
     points: ['Agent design & orchestration', 'Tool-use & automation'],
   },
+  {
+    name: 'SQL',
+    emoji: '🗄️',
+    description: 'Writing complex queries to extract, manipulate, and manage data for analytical dashboards and reporting.',
+    points: ['Database Management', 'Data Extraction'],
+  },
 ]
 
 export default function Skills() {
