@@ -1,4 +1,4 @@
-const skills = ['Python', 'Pandas', 'AI Agents']
+const skills = ['Python', 'Pandas', 'AI Agents', 'SQL']
 
 export default function Hero() {
   return (
@@ -31,7 +31,7 @@ export default function Hero() {
           >
             Onyx Chess Engine
           </a>
-          , a self-improving chess trainer.
+          , , a self-improving chess trainer. When I'm not coding, I enjoy playing chess, playing the guitar, watching sport's and listening to music.
         </p>
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
