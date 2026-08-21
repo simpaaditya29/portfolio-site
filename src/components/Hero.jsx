@@ -31,7 +31,7 @@ export default function Hero() {
           >
             Onyx Chess Engine
           </a>
-          , , a self-improving chess trainer. When I'm not coding, I enjoy playing chess, playing the guitar, watching sport's and listening to music.
+          , a self-improving chess trainer. When I'm not coding, I enjoy playing chess, playing the guitar, watching sports, and listening to music.
         </p>
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
@@ -46,6 +46,13 @@ export default function Hero() {
             className="rounded-lg border border-slate-700 bg-slate-900/50 px-6 py-3 text-sm font-semibold text-slate-200 transition-colors hover:border-slate-500 hover:text-white"
           >
             See my skills
+          </a>
+          <a
+            href="/Aaditya_Gusai_Resume.pdf"
+            download="Aaditya_Gusai_Resume.pdf"
+            className="rounded-lg border border-emerald-500/50 bg-emerald-500/10 px-6 py-3 text-sm font-semibold text-emerald-400 transition-colors hover:bg-emerald-500/20"
+          >
+            📄 Download Resume
           </a>
         </div>
 
